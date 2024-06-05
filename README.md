@@ -1,0 +1,1 @@
+# Tarefa do curso desenvolvedor fullstack JAVA onde usamos streams e o método filter para criar uma lista apenas com as mulheres através de outra lista onde foram adicionadas pessoas através do Scanner.
